@@ -1,0 +1,37 @@
+_repo: Il-Conte-di-Monte-Cristo_65391
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexandre, pere
+    - Dumas, Alexander
+    - père, Alexandre Dumas
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+    - https://fr.wikipedia.org/wiki/Alexandre_Dumas
+description: ''
+gutenberg_issued: '2021-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65391'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Revenge -- Fiction'
+- !lcsh 'Dantès, Edmond (Fictitious character) -- Fiction'
+- !lcsh 'France -- History -- 19th century -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PQ'
+- !lcsh 'Prisoners -- Fiction'
+- GITenberg
+title: Il Conte di Monte-Cristo
+url: http://www.gutenberg.org/ebooks/65391
